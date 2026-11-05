@@ -22,3 +22,8 @@ export * from './enums.js';
  * 
  */
 export type Article = Prisma.ArticleModel
+/**
+ * Model User
+ * 
+ */
+export type User = Prisma.UserModel
